@@ -1,0 +1,85 @@
+.container {
+    background: rgb(252, 252, 252);
+    margin: 0 auto;
+    width: 960px;
+}
+
+body {
+    background: rgb(79, 37, 156);
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    line-height: 1.6;
+}
+
+.place {
+    border-color: #CCC #999 #999 #CCC;
+    border: 1px solid #CCC;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: rgba(219, 209, 209, 0.144);
+}
+
+.place h2 {
+    border-bottom: 1px dashed #ffffff;
+    margin: 0;
+    text-align: center;
+}
+
+.fundo {
+    background-color: #ffffff;
+}
+
+.fundo a {
+    color: rgb(148, 20, 20);
+    text-decoration: none;
+}
+
+.place h1 {
+    margin: 0;
+    color: rgb(9, 216, 37);
+}
+
+.place img {
+    width: 230px;
+    height: 230px;
+    border: 1px solid #7e9f10;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+
+h1 a {
+    text-decoration: none;
+}
+
+h1 a:hover {
+    background-color: darkred;
+    color: floralwhite;
+}
+
+.footer {
+    font-size: 12;
+    text-align: center;
+}
+
+.sinenote {
+    background-color: floralwhite;
+    border: solid 1px;
+    padding: 10px;
+    margin: 10px;
+    width: 260px;
+    float: right;
+}
+
+.sinenote h3 {
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.sinenote ol {
+    font-size: 12px;
+}
+
+.places {
+    width: 600px;
+    float: left;
+}
